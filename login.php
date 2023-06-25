@@ -122,7 +122,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <div class="centered-container">
     <div class="wrapper">
         <h2>Login</h2>
-        <p>Please fill in your credentials to login.</p>
 
         <?php 
         if(!empty($login_err)){
@@ -144,7 +143,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <div class="form-group">
                 <input type="submit" class="btn btn-primary" value="Login">
             </div>
-            <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
         </form>
     </div>
 </body>
