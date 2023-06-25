@@ -50,7 +50,7 @@
         <ul>
           <li class="active"><a href="index.php">Home</a></li>
           <li class="active"><a href="about.php">About</a></li>          
-          <li class="active"><a href="totalgrade.php">Admin</a></li>
+          <li class="active"><a href="register.php">Admin</a></li>
 			  <!-- Log on to codeastro.com for more projects! -->
              
             </ul>
